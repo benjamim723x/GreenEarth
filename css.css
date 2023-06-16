@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(220, 255, 220) ;
+  }
+  
+  header {
+    background:url(../img/logotipo\ para\ o\ arnaldo.jpg) 0 0;
+    color: #050000;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 3px #363535;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 5px #494949;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2px;
+    text-align: center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .coluna1{
+    column-count: 3;
+    line-height: 1.5;
+  }
+  .po{
+    text-align: justify;
+    line-height: 1.5;
+  }
+  hr{
+    color: #193b1d;
+
+  }
+  .pi{
+    text-align: justify;
+    line-height: 1.5;
+  }
